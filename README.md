@@ -1,4 +1,4 @@
-# StockScreenerJava
+# StockScreener: Java
 LONG only: NSE, BSE screener for Intraday and Short Terms : 1H / 4H / 1D
 
 ## How to Run
@@ -29,3 +29,8 @@ LONG only: NSE, BSE screener for Intraday and Short Terms : 1H / 4H / 1D
   > Works fine for smaller time frames: 15M/ 1H/ 4H/ 1D.
 
 ![](./screenshot/stockScreener_IN.png) 
+
+<br/>
+Thanks,
+
+Anurag. 
